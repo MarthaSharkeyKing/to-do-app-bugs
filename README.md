@@ -1,3 +1,12 @@
+# To Run The Application
+make sure you are in the directory 'buggy-to-do'
+
+### `npm start`
+
+There are two known bugs in this to do list app. They should be ovbious to spot!
+Using the dev tools debuuger try to spot how these to unexpected behaviours have occured!
+If you would like to fix them make a branch per bug and make a PR for each fix!
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
